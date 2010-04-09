@@ -1,0 +1,19 @@
+#dabbas ul						{ list-style:none; margin: 50px;}
+#dabbas ul li					{ background: #eaeaea; padding: 10px; border: 2px solid #2e2e2e; margin-top: 20px; -moz-border-radius: 5px;}
+#dabbas ul li:hover				{ -moz-box-shadow: 0px 0px 5px rgba(0,0,0,0.5);}
+#dabbas ul li hr				{ color: #dadada; margin-top: 12px; margin-bottom: 2px;}
+#dabbas ul li span.title		{ font: 35px Georgia; padding-bottom:10px;}
+#dabbas ul li span.when			{ font: italic 15px Georgia; background: #2e2e2e; padding:2px; color:#fff;}
+#dabbas ul li span.rating		{ font: small-caps 15px Arial; background: #316AC5; padding:2px; color: #fff;}
+#dabbas ul li span.commit,
+#dabbas ul li span.magyes		{ font:  15px Arial; background: #52b00d; padding:2px; color: #fff;}			
+#dabbas ul li span.pdf,
+#dabbas ul li span.magno		{ font: 15px Arial; background: #b00d0d; padding:2px; color: #fff;}				
+#dabbas ul li p.none			{ font:italic 20px Georgia; text-align:center;}
+
+#dabbas ul li a.link			{ font:  15px Arial; background: #ffa200; padding:2px; color: #000; text-decoration:none; padding-left:10px; padding-right:10px;}
+#dabbas ul li a.link:hover		{ -moz-box-shadow: 0 0 5px rgba(0,0,0,0.2); background: #000; color: #ffa200;}
+
+#dabbas ul li a.more			{ font: 20px Georgia; text-align:center; text-decoration: none; color: #fff;}
+
+#dabbas ul li.more 				{ background: #2e2e2e;}

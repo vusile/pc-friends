@@ -1,0 +1,8 @@
+#header p.title								{ font-size:115px;}
+.recent										{ font: italic 30px  Georgia,Serif; margin-top:30px; text-align:center;}
+
+#showoff									{ text-align:center; margin-top:30px;}
+#showoff a									{ background: #2e2e2e; padding: 10px; -moz-border-radius: 2px; text-decoration: none; color: #fff;}
+#showoff a.spl								{ background: #ba1a1a; padding: 10px; -moz-border-radius: 2px; text-decoration: none; color: #fff;}
+#showoff a.spl:hover						{ background: #ba1a1a; -moz-box-shadow: 0 0 4px #000; color: #fff;}
+#showoff a:hover							{ background: #dadada; color: #000; -moz-box-shadow: 0 0 4px #000;}

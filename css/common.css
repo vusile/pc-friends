@@ -1,0 +1,21 @@
+*							{ margin:0px; padding:0px; }
+body						{ font:14px Georgia, Serif; }
+
+p.props						{ font: italic 14px Georgia; text-align:center;}
+
+#carea						{ width:900px; margin: 0 auto; -moz-box-shadow: 0 0 50px rgba(0,0,0,0.3); -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.3); padding-bottom:100px;}
+#header p.title				{ font: Georgia, Serif; text-align:center; padding-top:100px;}
+#nav						{ font: small-caps 22px Helvetica, Verdana, Tahoma, Georgia; list-style:none;}
+#nav li						{ float: left; padding-right: 25px;}
+#nav li a 					{ text-decoration: none; color: #aaaaaa; padding:2px;}
+#nav li a:hover				{ border-bottom: 3px dotted #ba1a1a; color: #ba1a1a;}
+#nav li a.current		 	{ color: #2e2e2e;}
+
+#redline					{ border: 10px solid #ba1a1a;}
+#line						{ background:#6b91c4; padding: 10px;}
+#oops						{ text-align:center; margin: 20px; }
+#oops p						{ font-style:italic; background: #dadada; padding:2px; -moz-box-shadow: 0 0 5px #eaeaea; -webkit-box-shadow: 0 0 5px #eaeaea;}
+#oops p span				{ color: #ba1a1a;}
+
+
+hr							{ margin: 20px 30px; color: rgba(0,0,0,0.1);}

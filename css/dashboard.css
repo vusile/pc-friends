@@ -1,0 +1,10 @@
+#nav										{ padding-left: 80px ;}
+
+#header p.title								{ font-size:120px;}
+
+.recent										{ font: italic 30px  Georgia,Serif; margin-top:30px; text-align:center;}
+
+p.shoutnotifications						{ padding: 20px; font: italic 20px Georgia, Serif; text-align:center; background: #eaeaea; margin-top:30px; border-bottom: 2px solid #000; border-top: 2px solid #000;}
+p.shoutnotifications:hover					{ -moz-box-shadow: 0 0 5px #dadada;}
+p.shoutnotifications span					{ color: #ba1a1a;}
+a.shout										{ text-decoration:none; color: #000;}

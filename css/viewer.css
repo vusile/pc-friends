@@ -1,0 +1,12 @@
+#nav															{ padding-left: 50px ;}
+
+#header p.title													{ font-size:136px;}
+
+
+#article-details, #ratings										{ margin: 50px; background: #eaeaea; padding: 10px; border: 2px solid #dadada; -moz-border-radius: 10px;}
+#article-details span.title										{ font: 35px Georgia; }
+#article-details span.who, #article-details span.when			{ font: italic 15px Georgia; background: #2e2e2e; padding:2px; color:#fff;}
+#article-details span.rating									{ font: small-caps 15px Arial; background: #316AC5; padding:2px; color: #fff;}
+#article-details p.txt											{ font: 16px helvetica, sans-serif; letter-spacing: 0.2px; line-height: 150%; text-align:justify;}
+#article-details a												{ font:  15px Arial; background: #ffa200; padding:2px; color: #000; text-decoration:none; padding-left:10px; padding-right:10px;}
+#article-details a:hover										{ -moz-box-shadow: 0 0 5px rgba(0,0,0,0.2); background: #000; color: #ffa200;}}

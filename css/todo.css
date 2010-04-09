@@ -1,0 +1,8 @@
+#header p.title								{ font-size:115px;}
+#nav 										{ padding-left: 400px; }
+table										{ margin: 0 auto; margin-top: 50px; background: #2e2e2e; cell-spacing: 1px; border: 2px dashed #dadada; width: 50%;}
+table tr td									{ font: 20px Gerogia ; color: #fff; padding: 2px;}
+table tr.done								{ background: #52b00d}
+table tr.pending							{ background: #316AC5;}
+table tr.yet								{ background: #ba1a1a;}
+table tr td a								{ color: #fff; text-decoration: none;}

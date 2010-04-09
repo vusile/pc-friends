@@ -1,0 +1,13 @@
+a											{ text-decoration: none; color: #000; border: none;}
+img											{ border:none;}
+#header p.title								{ font-size:115px; margin-bottom: 20px;}
+p.separator									{ font: 30px Georgia,Serif; text-align:center;}
+ul											{ margin: 0 50px;}
+ul.newshouts li								{ text-align:left; list-style:none; background: #d0d0d0; margin-top:10px; padding: 5px; border: 2px dotted #d0d0d0;}
+ul.newshouts li:hover						{ border: 2px dashed #000;}
+ul.oldshouts li								{ text-align:left; list-style:none; background: #eaeaea; margin-top:10px; padding: 5px; border: 2px dotted #eaeaea;}
+ul.oldshouts li:hover						{ border: 2px dashed #000;}
+ul li span.on								{ background: #ba1a1a; color: #fff; padding: 0 2px; font-family: helvetica;}
+ul li span.who								{ background: #52b00d; color: #fff; padding: 0 2px; font-family: helvetica;}
+ul li span.when								{ background: #316AC5; color: #fff; padding: 0 2px; font-family: helvetica;}
+ul li span.content							{ font: italic 14px Georgia, Serif;}
