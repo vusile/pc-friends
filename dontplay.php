@@ -1,6 +1,6 @@
 <?php
-
-	@session_start();
+//sessoin start
+	session_start();
 	
 	if (!isset($_SESSION['auth']))
 		{
